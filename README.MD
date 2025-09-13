@@ -120,7 +120,7 @@ Para melhorar o desempenho de algoritmos como o KNN e a Decision Tree, seriam ú
 
 ### Clone este repositório:
 ```bash
-git clone https://github.com/Anthonyysm/ia-breast-cancer-dataset.git
+git clone https://github.com/GlauberMargem/ia-breast-cancer-dataset.git
 ```
 
 ### Instale as dependências:
